@@ -1,0 +1,33 @@
+@media (max-width:2560px) {
+    section{
+    background: #000;
+    color:aliceblue
+}
+.navbar-brand{
+    width: 7%;
+}    
+}
+@media (max-width:1920px) {
+    
+}
+@media (max-width:1440px) {
+    
+}
+@media (max-width:1024px) {
+    
+}
+@media (max-width:768px) {
+    
+}
+@media (max-width:576px) {
+    
+}
+@media (max-width:425px) {
+    
+}
+@media (max-width:375px) {
+    
+}
+@media (max-width:320px) {
+    
+}
